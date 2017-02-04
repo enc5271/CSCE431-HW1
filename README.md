@@ -1,5 +1,9 @@
 Ruby Intro
 =============
+Note on my submission
+---------------------
+I used Ruby 1.9.3 due to some issues installing Ruby 2.3 as specified in the gemfile. Everything should run the same as the same rspec tests passed in 1.9.3. Sorry for any inconvenience. 
+
 
 This 3-part homework gives some basic practice in Ruby as well as
 getting you accustomed to making testing a regular part of your workflow.
